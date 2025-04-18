@@ -1,2 +1,2 @@
 # Week-2
-First fire detection using deep learning 
+Forst fire detection using deep learning 
